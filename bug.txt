@@ -1,0 +1,40 @@
+In this course you will learn about:
+Bug bounty
+Github 
+Vage
+Nikto 
+Recon-ng
+Knockpy
+subdomains
+Nmap 
+Burpsuite
+Intruder
+Spider
+Proxy
+Scanner
+Repeater
+Bwapp
+Firebug
+Hackbar
+Sublister
+WP scan
+CMS map
+XSS 
+SQL injection
+Template injection
+Clickjacking 
+Open redirect
+CSRF
+SSRF
+IDOR
+HTML injection 
+XXE 
+XML path
+RCE
+crt.sh 
+Sensitive data exposoure
+Buffer overflow
+DOS
+DDOS
+OSINIT
+HTTP parameter pollution 
